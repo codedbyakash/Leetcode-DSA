@@ -157,4 +157,8 @@
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/codedbyakash/Dsa/tree/master/2614-prime-in-diagonal) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/codedbyakash/Dsa/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
