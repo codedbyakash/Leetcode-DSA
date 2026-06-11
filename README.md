@@ -23,6 +23,7 @@
 | [0088-merge-sorted-array](https://github.com/codedbyakash/Dsa/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/codedbyakash/Dsa/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/codedbyakash/Dsa/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/codedbyakash/Dsa/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/codedbyakash/Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0455-assign-cookies](https://github.com/codedbyakash/Dsa/tree/master/0455-assign-cookies) |
 | [0891-score-after-flipping-matrix](https://github.com/codedbyakash/Dsa/tree/master/0891-score-after-flipping-matrix) |
@@ -33,6 +34,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/codedbyakash/Dsa/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/codedbyakash/Dsa/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
