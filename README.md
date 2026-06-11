@@ -30,6 +30,7 @@
 | [0898-transpose-matrix](https://github.com/codedbyakash/Dsa/tree/master/0898-transpose-matrix) |
 | [1402-reducing-dishes](https://github.com/codedbyakash/Dsa/tree/master/1402-reducing-dishes) |
 | [1603-running-sum-of-1d-array](https://github.com/codedbyakash/Dsa/tree/master/1603-running-sum-of-1d-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/codedbyakash/Dsa/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2411-spiral-matrix-iv](https://github.com/codedbyakash/Dsa/tree/master/2411-spiral-matrix-iv) |
 | [2614-prime-in-diagonal](https://github.com/codedbyakash/Dsa/tree/master/2614-prime-in-diagonal) |
 ## Prefix Sum
@@ -37,6 +38,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/codedbyakash/Dsa/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/codedbyakash/Dsa/tree/master/1603-running-sum-of-1d-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/codedbyakash/Dsa/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/codedbyakash/Dsa/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Hash Table
 |  |
@@ -70,6 +72,7 @@
 | [0169-majority-element](https://github.com/codedbyakash/Dsa/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/codedbyakash/Dsa/tree/master/0455-assign-cookies) |
 | [1402-reducing-dishes](https://github.com/codedbyakash/Dsa/tree/master/1402-reducing-dishes) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/codedbyakash/Dsa/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +112,7 @@
 | [0455-assign-cookies](https://github.com/codedbyakash/Dsa/tree/master/0455-assign-cookies) |
 | [0891-score-after-flipping-matrix](https://github.com/codedbyakash/Dsa/tree/master/0891-score-after-flipping-matrix) |
 | [1402-reducing-dishes](https://github.com/codedbyakash/Dsa/tree/master/1402-reducing-dishes) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/codedbyakash/Dsa/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -118,6 +122,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/codedbyakash/Dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/codedbyakash/Dsa/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
