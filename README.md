@@ -36,6 +36,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/codedbyakash/Dsa/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/codedbyakash/Dsa/tree/master/1603-running-sum-of-1d-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/codedbyakash/Dsa/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Hash Table
 |  |
 | ------- |
@@ -167,4 +168,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/codedbyakash/Dsa/tree/master/0175-combine-two-tables) |
+## String
+|  |
+| ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/codedbyakash/Dsa/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
