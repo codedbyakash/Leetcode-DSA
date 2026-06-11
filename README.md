@@ -28,6 +28,7 @@
 | [0455-assign-cookies](https://github.com/codedbyakash/Dsa/tree/master/0455-assign-cookies) |
 | [0891-score-after-flipping-matrix](https://github.com/codedbyakash/Dsa/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/codedbyakash/Dsa/tree/master/0898-transpose-matrix) |
+| [1402-reducing-dishes](https://github.com/codedbyakash/Dsa/tree/master/1402-reducing-dishes) |
 | [1603-running-sum-of-1d-array](https://github.com/codedbyakash/Dsa/tree/master/1603-running-sum-of-1d-array) |
 | [2411-spiral-matrix-iv](https://github.com/codedbyakash/Dsa/tree/master/2411-spiral-matrix-iv) |
 | [2614-prime-in-diagonal](https://github.com/codedbyakash/Dsa/tree/master/2614-prime-in-diagonal) |
@@ -68,11 +69,13 @@
 | [0088-merge-sorted-array](https://github.com/codedbyakash/Dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/codedbyakash/Dsa/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/codedbyakash/Dsa/tree/master/0455-assign-cookies) |
+| [1402-reducing-dishes](https://github.com/codedbyakash/Dsa/tree/master/1402-reducing-dishes) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codedbyakash/Dsa/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/codedbyakash/Dsa/tree/master/0118-pascals-triangle) |
+| [1402-reducing-dishes](https://github.com/codedbyakash/Dsa/tree/master/1402-reducing-dishes) |
 ## Stack
 |  |
 | ------- |
@@ -105,6 +108,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/codedbyakash/Dsa/tree/master/0455-assign-cookies) |
 | [0891-score-after-flipping-matrix](https://github.com/codedbyakash/Dsa/tree/master/0891-score-after-flipping-matrix) |
+| [1402-reducing-dishes](https://github.com/codedbyakash/Dsa/tree/master/1402-reducing-dishes) |
 ## Bit Manipulation
 |  |
 | ------- |
